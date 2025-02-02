@@ -1,6 +1,6 @@
 # My Simple WebApp - Project Workflow
 
-![Architecture Diagram](images/flask-web-app.jpg)
+![Architecture Diagram](flask-web-app.jpg)
 
 This project automates the deployment of a Flask web application using DevOps tools like Docker, Terraform, AWS, Ansible, and Jenkins.
 
